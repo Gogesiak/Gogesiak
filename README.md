@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Gogesiak
+- 👋 Hi, I’m @xTosterQa
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C#  C++  JavaScript
