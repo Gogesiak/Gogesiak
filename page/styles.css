@@ -1,0 +1,11 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+#upg {
+	white-space: nowrap;
+	display: inline-block;
+}
